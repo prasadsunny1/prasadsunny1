@@ -5,9 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter Ahmedabad
+- 🔭 I’m currently working on Flutter and Android
 - 💬 Ask me about random software stuff
 - 📫 How to reach me: http://twitter.com/prasadsunny1
 
