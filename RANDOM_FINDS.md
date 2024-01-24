@@ -1,3 +1,15 @@
-Auto Wiki [https://wiki.mutable.ai/](https://wiki.mutable.ai/)
+### Auto Wiki [https://wiki.mutable.ai/](https://wiki.mutable.ai/)
 
 View high-quality, automatically-generated documentation for *any* GitHub repository.
+
+### https://resume.co/
+
+Very fast resume builder that reads from your existing resume and  then lets you choose from some templates
+
+### https://rxresu.me/
+
+Simple resume builder that lets you build your resume from scratch in structured way
+
+### https://tatkal.flights/
+Very cheap flight booking for tatkal or planned flights. They are actually an agent and not aggregator.
+Works using whatsapp
