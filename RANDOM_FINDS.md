@@ -13,3 +13,7 @@ Simple resume builder that lets you build your resume from scratch in structured
 ### https://tatkal.flights/
 Very cheap flight booking for tatkal or planned flights. They are actually an agent and not aggregator.
 Works using whatsapp
+
+
+### https://github.com/rustdesk/rustdesk
+A selfhosted teamviewer alternative
