@@ -31,3 +31,11 @@ Easily delete github repos in bulk
 
 An open source game about learning Git!
 
+### https://pub.dev/packages/dcdg
+
+A dart pkg to create plant uml diagrams 
+
+
+### https://freemacsoft.net/appcleaner/
+
+A mac app to delete an app with any leftovers
