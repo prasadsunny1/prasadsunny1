@@ -39,3 +39,14 @@ A dart pkg to create plant uml diagrams
 ### https://freemacsoft.net/appcleaner/
 
 A mac app to delete an app with any leftovers
+
+### https://www.emergetools.com/
+
+Emerge Tools is a suite of revolutionary products designed to
+supercharge mobile apps and the teams that build them
+
+- Size Analysis
+- Performance analysis
+- UI Snapshots
+- LaunchTime booster
+- Dead code elemenator
