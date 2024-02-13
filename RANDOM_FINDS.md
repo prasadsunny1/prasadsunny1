@@ -50,3 +50,7 @@ supercharge mobile apps and the teams that build them
 - UI Snapshots
 - LaunchTime booster
 - Dead code elemenator
+
+### https://codingchallenges.fyi/challenges/intro
+
+Build real software instead of leetcode grinding.
