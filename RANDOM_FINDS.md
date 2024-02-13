@@ -54,3 +54,7 @@ supercharge mobile apps and the teams that build them
 ### https://codingchallenges.fyi/challenges/intro
 
 Build real software instead of leetcode grinding.
+
+### https://blog.bytebytego.com/
+
+System design
