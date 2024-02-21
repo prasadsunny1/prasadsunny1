@@ -66,3 +66,7 @@ Read 30 artlicles about system design from tech leaders.
 ### https://docs.google.com/document/d/1vQtXpwsmCnQ05oBT7mMEk9Es1WqMk-u0KBGIst1_lSA/edit?usp=sharing
 
 JohnDoe's Journey post layoff
+
+### https://www.awesomefintech.com/term/
+
+All about fintech companies
