@@ -62,3 +62,7 @@ System design
 ### https://www.linkedin.com/posts/thecreatorsir_systemdesign-interviewpreparation-resources-activity-7162651412814917632-4Abt?utm_source=share&utm_medium=member_desktop
 
 Read 30 artlicles about system design from tech leaders.
+
+### https://docs.google.com/document/d/1vQtXpwsmCnQ05oBT7mMEk9Es1WqMk-u0KBGIst1_lSA/edit?usp=sharing
+
+JohnDoe's Journey post layoff
