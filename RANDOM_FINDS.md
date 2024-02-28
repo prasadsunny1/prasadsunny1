@@ -75,3 +75,6 @@ All about fintech companies
 
 Verygood CI CD setup for flutter
 
+### https://clickup.com/blog/separation-of-concerns-in-flutter-applications/
+
+Clickup's flutter architecture
