@@ -70,3 +70,8 @@ JohnDoe's Journey post layoff
 ### https://www.awesomefintech.com/term/
 
 All about fintech companies
+
+### https://clickup.com/blog/flutter-ci-cd/
+
+Verygood CI CD setup for flutter
+
