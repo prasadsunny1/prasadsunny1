@@ -78,3 +78,7 @@ Verygood CI CD setup for flutter
 ### https://clickup.com/blog/separation-of-concerns-in-flutter-applications/
 
 Clickup's flutter architecture
+
+### https://github.com/LibChecker/LibChecker
+
+Android apk lib explorer app
