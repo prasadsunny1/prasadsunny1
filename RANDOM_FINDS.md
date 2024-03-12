@@ -82,3 +82,8 @@ Clickup's flutter architecture
 ### https://github.com/LibChecker/LibChecker
 
 Android apk lib explorer app
+
+### https://github.com/desktop/desktop/issues/7059
+### https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work
+
+Solution for GPG not working on github desktop
