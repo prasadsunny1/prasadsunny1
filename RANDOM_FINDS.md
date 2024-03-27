@@ -87,3 +87,7 @@ Android apk lib explorer app
 ### https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work
 
 Solution for GPG not working on github desktop
+
+### https://xprilion.com/resume-template-by-anubhav/
+
+Build a very good resume 
