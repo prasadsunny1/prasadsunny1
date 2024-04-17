@@ -91,3 +91,7 @@ Solution for GPG not working on github desktop
 ### https://xprilion.com/resume-template-by-anubhav/
 
 Build a very good resume 
+
+### https://free-for.dev/#/
+
+Things free for devs
