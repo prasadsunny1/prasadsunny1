@@ -95,3 +95,7 @@ Build a very good resume
 ### https://free-for.dev/#/
 
 Things free for devs
+
+### https://nimbo.earth/
+
+Explore before and after using sattelite images
