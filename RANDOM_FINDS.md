@@ -99,3 +99,7 @@ Things free for devs
 ### https://nimbo.earth/
 
 Explore before and after using sattelite images
+
+### https://github.com/tauri-apps/tauri/issues/4669
+
+Create DMG
