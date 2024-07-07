@@ -103,3 +103,7 @@ Explore before and after using sattelite images
 ### https://github.com/tauri-apps/tauri/issues/4669
 
 Create DMG
+
+### https://tally.so/
+
+Google forms and Typeform alternative
